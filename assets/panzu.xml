@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="panzu.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="panzu_kiss0000" x="0" y="0" width="696" height="468"/>
+	<SubTexture name="panzu_kiss0001" x="0" y="0" width="696" height="468"/>
+	<SubTexture name="panzu_kiss0002" x="0" y="0" width="696" height="468"/>
+	<SubTexture name="panzu_kiss0003" x="697" y="0" width="696" height="468"/>
+	<SubTexture name="panzu_kiss0004" x="697" y="0" width="696" height="468"/>
+	<SubTexture name="panzu_kiss0005" x="697" y="0" width="696" height="468"/>
+	<SubTexture name="panzu_love0_0000" x="0" y="469" width="696" height="468"/>
+	<SubTexture name="panzu_love0_0001" x="0" y="469" width="696" height="468"/>
+	<SubTexture name="panzu_love0_0002" x="0" y="469" width="696" height="468"/>
+	<SubTexture name="panzu_love0_0003" x="697" y="469" width="696" height="468"/>
+	<SubTexture name="panzu_love0_0004" x="697" y="469" width="696" height="468"/>
+	<SubTexture name="panzu_love0_0005" x="697" y="469" width="696" height="468"/>
+</TextureAtlas>
